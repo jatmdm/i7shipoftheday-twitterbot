@@ -103,5 +103,8 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+#image folder
+images/
+
 #settings
 settings.py
