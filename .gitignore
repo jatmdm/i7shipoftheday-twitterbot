@@ -108,3 +108,7 @@ images/
 
 #settings
 settings.py
+
+#images
+*.png
+*.jpg
